@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+    build:
+      commands:
+        - echo Nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - Siddharth_Bhardwaj_Tech_CSR_Resume_2018.pdf
+    - styles/main.css
+    - images/*example
