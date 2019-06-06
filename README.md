@@ -1,4 +1,5 @@
-## Technologies used
+## Aren't I cool with my cool repo names :poop:
+Technologies used:
 git
 github
 SSH
